@@ -1,0 +1,16 @@
+{
+  "name": "node-addons",
+  "version": "1.0.0",
+  "description": "Node.js Addons are dynamically-linked shared objects, written C or C++.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "C++",
+    "JavaScript",
+    "native"
+  ],
+  "author": "David Gaspar",
+  "license": "ISC"
+}
