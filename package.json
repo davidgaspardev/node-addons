@@ -12,5 +12,8 @@
     "native"
   ],
   "author": "David Gaspar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-gyp": "^5.0.3"
+  }
 }
