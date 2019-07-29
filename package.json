@@ -4,6 +4,8 @@
   "description": "Node.js Addons are dynamically-linked shared objects, written C or C++.",
   "main": "index.js",
   "scripts": {
+    "build": "./node_modules/node-gyp/bin/node-gyp.js configure build",
+    "start": "node ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
